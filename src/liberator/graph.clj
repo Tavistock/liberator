@@ -9,18 +9,20 @@
   (clojure.string/replace str #"[^a-zA-Z0-9_]+" ""))
 
 (def default-style "color=\"#b2df8a\"")
+(def internal-decision-style "style=\"filled\" fillcolor=\"#D3D3D3\"")
 
 (defn to-graph [[& args]]
   (condp = (first args)
     'defdecision
     (let [[name then else] (apply extract args)
           default (get liberator/default-functions (keyword name))
+          decision-style (if (some? default) "" internal-decision-style)
           then-default (if (true? default) default-style "")
           else-default (if (false? default) default-style "")]
-      (format (str "\"%s\" [id = \"%s\"] \n "
+      (format (str "\"%s\" [id = \"%s\" %s] \n "
                    "\"%s\" -> \"%s\" [label = \"true\",  id = \"%s\" %s] \n"
                    "\"%s\" -> \"%s\" [label = \"false\", id = \"%s\" %s]\n")
-              name (clean-id name)
+              name (clean-id name) decision-style
               name then (clean-id (str name "_" then)) then-default
               name else (clean-id (str name "_" else)) else-default))
     'defaction

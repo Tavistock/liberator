@@ -401,7 +401,7 @@
 <!-- post&#45;to&#45;missing? -->
 <g id="posttomissing" class="node">
 <title>post&#45;to&#45;missing?</title>
-<polygon fill="none" stroke="#000000" points="1341.3998,-810 1222.9928,-810 1222.9928,-774 1341.3998,-774 1341.3998,-810"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1341.3998,-810 1222.9928,-810 1222.9928,-774 1341.3998,-774 1341.3998,-810"/>
 <text text-anchor="middle" x="1282.1963" y="-787.8" font-family="sans-serif" font-size="14.00" fill="#000000">post&#45;to&#45;missing?</text>
 </g>
 <!-- post&#45;to&#45;missing?&#45;&gt;handle&#45;not&#45;found -->
@@ -421,7 +421,7 @@
 <!-- can&#45;post&#45;to&#45;gone? -->
 <g id="canposttogone" class="node">
 <title>can&#45;post&#45;to&#45;gone?</title>
-<polygon fill="none" stroke="#000000" points="964.8238,-724 835.5688,-724 835.5688,-688 964.8238,-688 964.8238,-724"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="964.8238,-724 835.5688,-724 835.5688,-688 964.8238,-688 964.8238,-724"/>
 <text text-anchor="middle" x="900.1963" y="-701.8" font-family="sans-serif" font-size="14.00" fill="#000000">can&#45;post&#45;to&#45;gone?</text>
 </g>
 <!-- can&#45;post&#45;to&#45;gone?&#45;&gt;post! -->
@@ -441,7 +441,7 @@
 <!-- post&#45;to&#45;gone? -->
 <g id="posttogone" class="node">
 <title>post&#45;to&#45;gone?</title>
-<polygon fill="none" stroke="#000000" points="1033.5896,-810 930.803,-810 930.803,-774 1033.5896,-774 1033.5896,-810"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1033.5896,-810 930.803,-810 930.803,-774 1033.5896,-774 1033.5896,-810"/>
 <text text-anchor="middle" x="982.1963" y="-787.8" font-family="sans-serif" font-size="14.00" fill="#000000">post&#45;to&#45;gone?</text>
 </g>
 <!-- post&#45;to&#45;gone?&#45;&gt;handle&#45;gone -->
@@ -535,7 +535,7 @@
 <!-- method&#45;post? -->
 <g id="methodpost" class="node">
 <title>method&#45;post?</title>
-<polygon fill="none" stroke="#000000" points="777.8035,-638 676.5891,-638 676.5891,-602 777.8035,-602 777.8035,-638"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="777.8035,-638 676.5891,-638 676.5891,-602 777.8035,-602 777.8035,-638"/>
 <text text-anchor="middle" x="727.1963" y="-615.8" font-family="sans-serif" font-size="14.00" fill="#000000">method&#45;post?</text>
 </g>
 <!-- method&#45;post?&#45;&gt;post! -->
@@ -615,7 +615,7 @@
 <!-- method&#45;put? -->
 <g id="methodput" class="node">
 <title>method&#45;put?</title>
-<polygon fill="none" stroke="#000000" points="968.3035,-1154 874.089,-1154 874.089,-1118 968.3035,-1118 968.3035,-1154"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="968.3035,-1154 874.089,-1154 874.089,-1118 968.3035,-1118 968.3035,-1154"/>
 <text text-anchor="middle" x="921.1963" y="-1131.8" font-family="sans-serif" font-size="14.00" fill="#000000">method&#45;put?</text>
 </g>
 <!-- method&#45;put?&#45;&gt;existed? -->
@@ -635,7 +635,7 @@
 <!-- if&#45;match&#45;star&#45;exists&#45;for&#45;missing? -->
 <g id="ifmatchstarexistsformissing" class="node">
 <title>if&#45;match&#45;star&#45;exists&#45;for&#45;missing?</title>
-<polygon fill="none" stroke="#000000" points="925.834,-1240 710.5585,-1240 710.5585,-1204 925.834,-1204 925.834,-1240"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="925.834,-1240 710.5585,-1240 710.5585,-1204 925.834,-1204 925.834,-1240"/>
 <text text-anchor="middle" x="818.1963" y="-1217.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;match&#45;star&#45;exists&#45;for&#45;missing?</text>
 </g>
 <!-- if&#45;match&#45;star&#45;exists&#45;for&#45;missing?&#45;&gt;handle&#45;precondition&#45;failed -->
@@ -655,7 +655,7 @@
 <!-- if&#45;none&#45;match? -->
 <g id="ifnonematch" class="node">
 <title>if&#45;none&#45;match?</title>
-<polygon fill="none" stroke="#000000" points="360.0759,-1294 250.3167,-1294 250.3167,-1258 360.0759,-1258 360.0759,-1294"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="360.0759,-1294 250.3167,-1294 250.3167,-1258 360.0759,-1258 360.0759,-1294"/>
 <text text-anchor="middle" x="305.1963" y="-1271.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;none&#45;match?</text>
 </g>
 <!-- if&#45;none&#45;match?&#45;&gt;handle&#45;not&#45;modified -->
@@ -675,7 +675,7 @@
 <!-- put&#45;to&#45;existing? -->
 <g id="puttoexisting" class="node">
 <title>put&#45;to&#45;existing?</title>
-<polygon fill="none" stroke="#000000" points="685.9134,-810 574.4791,-810 574.4791,-774 685.9134,-774 685.9134,-810"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="685.9134,-810 574.4791,-810 574.4791,-774 685.9134,-774 685.9134,-810"/>
 <text text-anchor="middle" x="630.1963" y="-787.8" font-family="sans-serif" font-size="14.00" fill="#000000">put&#45;to&#45;existing?</text>
 </g>
 <!-- put&#45;to&#45;existing?&#45;&gt;multiple&#45;representations? -->
@@ -695,7 +695,7 @@
 <!-- post&#45;to&#45;existing? -->
 <g id="posttoexisting" class="node">
 <title>post&#45;to&#45;existing?</title>
-<polygon fill="none" stroke="#000000" points="719.4134,-896 600.9792,-896 600.9792,-860 719.4134,-860 719.4134,-896"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="719.4134,-896 600.9792,-896 600.9792,-860 719.4134,-860 719.4134,-896"/>
 <text text-anchor="middle" x="660.1963" y="-873.8" font-family="sans-serif" font-size="14.00" fill="#000000">post&#45;to&#45;existing?</text>
 </g>
 <!-- post&#45;to&#45;existing?&#45;&gt;conflict? -->
@@ -729,7 +729,7 @@
 <!-- method&#45;patch? -->
 <g id="methodpatch" class="node">
 <title>method&#45;patch?</title>
-<polygon fill="none" stroke="#000000" points="715.0896,-982 605.303,-982 605.303,-946 715.0896,-946 715.0896,-982"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="715.0896,-982 605.303,-982 605.303,-946 715.0896,-946 715.0896,-982"/>
 <text text-anchor="middle" x="660.1963" y="-959.8" font-family="sans-serif" font-size="14.00" fill="#000000">method&#45;patch?</text>
 </g>
 <!-- method&#45;patch?&#45;&gt;patch! -->
@@ -749,7 +749,7 @@
 <!-- method&#45;delete? -->
 <g id="methoddelete" class="node">
 <title>method&#45;delete?</title>
-<polygon fill="none" stroke="#000000" points="594.9857,-1068 481.4069,-1068 481.4069,-1032 594.9857,-1032 594.9857,-1068"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="594.9857,-1068 481.4069,-1068 481.4069,-1032 594.9857,-1032 594.9857,-1068"/>
 <text text-anchor="middle" x="538.1963" y="-1045.8" font-family="sans-serif" font-size="14.00" fill="#000000">method&#45;delete?</text>
 </g>
 <!-- method&#45;delete?&#45;&gt;delete! -->
@@ -769,7 +769,7 @@
 <!-- modified&#45;since? -->
 <g id="modifiedsince" class="node">
 <title>modified&#45;since?</title>
-<polygon fill="none" stroke="#000000" points="502.2442,-1154 388.1484,-1154 388.1484,-1118 502.2442,-1118 502.2442,-1154"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="502.2442,-1154 388.1484,-1154 388.1484,-1118 502.2442,-1118 502.2442,-1154"/>
 <text text-anchor="middle" x="445.1963" y="-1131.8" font-family="sans-serif" font-size="14.00" fill="#000000">modified&#45;since?</text>
 </g>
 <!-- modified&#45;since?&#45;&gt;handle&#45;not&#45;modified -->
@@ -789,7 +789,7 @@
 <!-- if&#45;modified&#45;since&#45;valid&#45;date? -->
 <g id="ifmodifiedsincevaliddate" class="node">
 <title>if&#45;modified&#45;since&#45;valid&#45;date?</title>
-<polygon fill="none" stroke="#000000" points="567.7715,-1240 376.6211,-1240 376.6211,-1204 567.7715,-1204 567.7715,-1240"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="567.7715,-1240 376.6211,-1240 376.6211,-1204 567.7715,-1204 567.7715,-1240"/>
 <text text-anchor="middle" x="472.1963" y="-1217.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;modified&#45;since&#45;valid&#45;date?</text>
 </g>
 <!-- if&#45;modified&#45;since&#45;valid&#45;date?&#45;&gt;method&#45;delete? -->
@@ -809,7 +809,7 @@
 <!-- if&#45;modified&#45;since&#45;exists? -->
 <g id="ifmodifiedsinceexists" class="node">
 <title>if&#45;modified&#45;since&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="583.3546,-1348 417.038,-1348 417.038,-1312 583.3546,-1312 583.3546,-1348"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="583.3546,-1348 417.038,-1348 417.038,-1312 583.3546,-1312 583.3546,-1348"/>
 <text text-anchor="middle" x="500.1963" y="-1325.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;modified&#45;since&#45;exists?</text>
 </g>
 <!-- if&#45;modified&#45;since&#45;exists?&#45;&gt;method&#45;delete? -->
@@ -829,7 +829,7 @@
 <!-- etag&#45;matches&#45;for&#45;if&#45;none? -->
 <g id="etagmatchesforifnone" class="node">
 <title>etag&#45;matches&#45;for&#45;if&#45;none?</title>
-<polygon fill="none" stroke="#000000" points="483.7715,-1434 306.6211,-1434 306.6211,-1398 483.7715,-1398 483.7715,-1434"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="483.7715,-1434 306.6211,-1434 306.6211,-1398 483.7715,-1398 483.7715,-1434"/>
 <text text-anchor="middle" x="395.1963" y="-1411.8" font-family="sans-serif" font-size="14.00" fill="#000000">etag&#45;matches&#45;for&#45;if&#45;none?</text>
 </g>
 <!-- etag&#45;matches&#45;for&#45;if&#45;none?&#45;&gt;if&#45;none&#45;match? -->
@@ -849,7 +849,7 @@
 <!-- if&#45;none&#45;match&#45;star? -->
 <g id="ifnonematchstar" class="node">
 <title>if&#45;none&#45;match&#45;star?</title>
-<polygon fill="none" stroke="#000000" points="459.0757,-1520 321.3169,-1520 321.3169,-1484 459.0757,-1484 459.0757,-1520"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="459.0757,-1520 321.3169,-1520 321.3169,-1484 459.0757,-1484 459.0757,-1520"/>
 <text text-anchor="middle" x="390.1963" y="-1497.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;none&#45;match&#45;star?</text>
 </g>
 <!-- if&#45;none&#45;match&#45;star?&#45;&gt;if&#45;none&#45;match? -->
@@ -869,7 +869,7 @@
 <!-- if&#45;none&#45;match&#45;exists? -->
 <g id="ifnonematchexists" class="node">
 <title>if&#45;none&#45;match&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="465.0235,-1606 315.369,-1606 315.369,-1570 465.0235,-1570 465.0235,-1606"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="465.0235,-1606 315.369,-1606 315.369,-1570 465.0235,-1570 465.0235,-1606"/>
 <text text-anchor="middle" x="390.1963" y="-1583.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;none&#45;match&#45;exists?</text>
 </g>
 <!-- if&#45;none&#45;match&#45;exists?&#45;&gt;if&#45;modified&#45;since&#45;exists? -->
@@ -889,7 +889,7 @@
 <!-- unmodified&#45;since? -->
 <g id="unmodifiedsince" class="node">
 <title>unmodified&#45;since?</title>
-<polygon fill="none" stroke="#000000" points="348.817,-1692 219.5756,-1692 219.5756,-1656 348.817,-1656 348.817,-1692"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="348.817,-1692 219.5756,-1692 219.5756,-1656 348.817,-1656 348.817,-1692"/>
 <text text-anchor="middle" x="284.1963" y="-1669.8" font-family="sans-serif" font-size="14.00" fill="#000000">unmodified&#45;since?</text>
 </g>
 <!-- unmodified&#45;since?&#45;&gt;handle&#45;precondition&#45;failed -->
@@ -909,7 +909,7 @@
 <!-- if&#45;unmodified&#45;since&#45;valid&#45;date? -->
 <g id="ifunmodifiedsincevaliddate" class="node">
 <title>if&#45;unmodified&#45;since&#45;valid&#45;date?</title>
-<polygon fill="none" stroke="#000000" points="415.3441,-1778 209.0485,-1778 209.0485,-1742 415.3441,-1742 415.3441,-1778"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="415.3441,-1778 209.0485,-1778 209.0485,-1742 415.3441,-1742 415.3441,-1778"/>
 <text text-anchor="middle" x="312.1963" y="-1755.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;unmodified&#45;since&#45;valid&#45;date?</text>
 </g>
 <!-- if&#45;unmodified&#45;since&#45;valid&#45;date?&#45;&gt;if&#45;none&#45;match&#45;exists? -->
@@ -929,7 +929,7 @@
 <!-- if&#45;unmodified&#45;since&#45;exists? -->
 <g id="ifunmodifiedsinceexists" class="node">
 <title>if&#45;unmodified&#45;since&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="477.927,-1864 296.4656,-1864 296.4656,-1828 477.927,-1828 477.927,-1864"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="477.927,-1864 296.4656,-1864 296.4656,-1828 477.927,-1828 477.927,-1864"/>
 <text text-anchor="middle" x="387.1963" y="-1841.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;unmodified&#45;since&#45;exists?</text>
 </g>
 <!-- if&#45;unmodified&#45;since&#45;exists?&#45;&gt;if&#45;none&#45;match&#45;exists? -->
@@ -949,7 +949,7 @@
 <!-- etag&#45;matches&#45;for&#45;if&#45;match? -->
 <g id="etagmatchesforifmatch" class="node">
 <title>etag&#45;matches&#45;for&#45;if&#45;match?</title>
-<polygon fill="none" stroke="#000000" points="479.251,-1950 295.1416,-1950 295.1416,-1914 479.251,-1914 479.251,-1950"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="479.251,-1950 295.1416,-1950 295.1416,-1914 479.251,-1914 479.251,-1950"/>
 <text text-anchor="middle" x="387.1963" y="-1927.8" font-family="sans-serif" font-size="14.00" fill="#000000">etag&#45;matches&#45;for&#45;if&#45;match?</text>
 </g>
 <!-- etag&#45;matches&#45;for&#45;if&#45;match?&#45;&gt;handle&#45;precondition&#45;failed -->
@@ -969,7 +969,7 @@
 <!-- if&#45;match&#45;star? -->
 <g id="ifmatchstar" class="node">
 <title>if&#45;match&#45;star?</title>
-<polygon fill="none" stroke="#000000" points="437.7695,-2036 336.6231,-2036 336.6231,-2000 437.7695,-2000 437.7695,-2036"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="437.7695,-2036 336.6231,-2036 336.6231,-2000 437.7695,-2000 437.7695,-2036"/>
 <text text-anchor="middle" x="387.1963" y="-2013.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;match&#45;star?</text>
 </g>
 <!-- if&#45;match&#45;star?&#45;&gt;if&#45;unmodified&#45;since&#45;exists? -->
@@ -989,7 +989,7 @@
 <!-- if&#45;match&#45;exists? -->
 <g id="ifmatchexists" class="node">
 <title>if&#45;match&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="564.2168,-2122 450.1758,-2122 450.1758,-2086 564.2168,-2086 564.2168,-2122"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="564.2168,-2122 450.1758,-2122 450.1758,-2086 564.2168,-2086 564.2168,-2122"/>
 <text text-anchor="middle" x="507.1963" y="-2099.8" font-family="sans-serif" font-size="14.00" fill="#000000">if&#45;match&#45;exists?</text>
 </g>
 <!-- if&#45;match&#45;exists?&#45;&gt;if&#45;unmodified&#45;since&#45;exists? -->
@@ -1049,7 +1049,7 @@
 <!-- encoding&#45;available? -->
 <g id="encodingavailable" class="node">
 <title>encoding&#45;available?</title>
-<polygon fill="none" stroke="#000000" points="1705.2342,-2380 1565.1584,-2380 1565.1584,-2344 1705.2342,-2344 1705.2342,-2380"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1705.2342,-2380 1565.1584,-2380 1565.1584,-2344 1705.2342,-2344 1705.2342,-2380"/>
 <text text-anchor="middle" x="1635.1963" y="-2357.8" font-family="sans-serif" font-size="14.00" fill="#000000">encoding&#45;available?</text>
 </g>
 <!-- encoding&#45;available?&#45;&gt;handle&#45;not&#45;acceptable -->
@@ -1069,7 +1069,7 @@
 <!-- accept&#45;encoding&#45;exists? -->
 <g id="acceptencodingexists" class="node">
 <title>accept&#45;encoding&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="1678.668,-2466 1511.7246,-2466 1511.7246,-2430 1678.668,-2430 1678.668,-2466"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1678.668,-2466 1511.7246,-2466 1511.7246,-2430 1678.668,-2430 1678.668,-2466"/>
 <text text-anchor="middle" x="1595.1963" y="-2443.8" font-family="sans-serif" font-size="14.00" fill="#000000">accept&#45;encoding&#45;exists?</text>
 </g>
 <!-- accept&#45;encoding&#45;exists?&#45;&gt;processable? -->
@@ -1089,7 +1089,7 @@
 <!-- charset&#45;available? -->
 <g id="charsetavailable" class="node">
 <title>charset&#45;available?</title>
-<polygon fill="none" stroke="#000000" points="1572.817,-2552 1443.5756,-2552 1443.5756,-2516 1572.817,-2516 1572.817,-2552"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1572.817,-2552 1443.5756,-2552 1443.5756,-2516 1572.817,-2516 1572.817,-2552"/>
 <text text-anchor="middle" x="1508.1963" y="-2529.8" font-family="sans-serif" font-size="14.00" fill="#000000">charset&#45;available?</text>
 </g>
 <!-- charset&#45;available?&#45;&gt;handle&#45;not&#45;acceptable -->
@@ -1109,7 +1109,7 @@
 <!-- accept&#45;charset&#45;exists? -->
 <g id="acceptcharsetexists" class="node">
 <title>accept&#45;charset&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="1620.251,-2638 1464.1416,-2638 1464.1416,-2602 1620.251,-2602 1620.251,-2638"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1620.251,-2638 1464.1416,-2638 1464.1416,-2602 1620.251,-2602 1620.251,-2638"/>
 <text text-anchor="middle" x="1542.1963" y="-2615.8" font-family="sans-serif" font-size="14.00" fill="#000000">accept&#45;charset&#45;exists?</text>
 </g>
 <!-- accept&#45;charset&#45;exists?&#45;&gt;accept&#45;encoding&#45;exists? -->
@@ -1129,7 +1129,7 @@
 <!-- language&#45;available? -->
 <g id="languageavailable" class="node">
 <title>language&#45;available?</title>
-<polygon fill="none" stroke="#000000" points="1527.0199,-2724 1385.3727,-2724 1385.3727,-2688 1527.0199,-2688 1527.0199,-2724"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1527.0199,-2724 1385.3727,-2724 1385.3727,-2688 1527.0199,-2688 1527.0199,-2724"/>
 <text text-anchor="middle" x="1456.1963" y="-2701.8" font-family="sans-serif" font-size="14.00" fill="#000000">language&#45;available?</text>
 </g>
 <!-- language&#45;available?&#45;&gt;handle&#45;not&#45;acceptable -->
@@ -1149,7 +1149,7 @@
 <!-- accept&#45;language&#45;exists? -->
 <g id="acceptlanguageexists" class="node">
 <title>accept&#45;language&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="1646.9543,-2810 1479.4383,-2810 1479.4383,-2774 1646.9543,-2774 1646.9543,-2810"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1646.9543,-2810 1479.4383,-2810 1479.4383,-2774 1646.9543,-2774 1646.9543,-2810"/>
 <text text-anchor="middle" x="1563.1963" y="-2787.8" font-family="sans-serif" font-size="14.00" fill="#000000">accept&#45;language&#45;exists?</text>
 </g>
 <!-- accept&#45;language&#45;exists?&#45;&gt;accept&#45;charset&#45;exists? -->
@@ -1169,7 +1169,7 @@
 <!-- media&#45;type&#45;available? -->
 <g id="mediatypeavailable" class="node">
 <title>media&#45;type&#45;available?</title>
-<polygon fill="none" stroke="#000000" points="1763.6611,-2896 1610.7314,-2896 1610.7314,-2860 1763.6611,-2860 1763.6611,-2896"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1763.6611,-2896 1610.7314,-2896 1610.7314,-2860 1763.6611,-2860 1763.6611,-2896"/>
 <text text-anchor="middle" x="1687.1963" y="-2873.8" font-family="sans-serif" font-size="14.00" fill="#000000">media&#45;type&#45;available?</text>
 </g>
 <!-- media&#45;type&#45;available?&#45;&gt;handle&#45;not&#45;acceptable -->
@@ -1189,7 +1189,7 @@
 <!-- accept&#45;exists? -->
 <g id="acceptexists" class="node">
 <title>accept&#45;exists?</title>
-<polygon fill="none" stroke="#000000" points="1740.1798,-2982 1634.2128,-2982 1634.2128,-2946 1740.1798,-2946 1740.1798,-2982"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1740.1798,-2982 1634.2128,-2982 1634.2128,-2946 1740.1798,-2946 1740.1798,-2982"/>
 <text text-anchor="middle" x="1687.1963" y="-2959.8" font-family="sans-serif" font-size="14.00" fill="#000000">accept&#45;exists?</text>
 </g>
 <!-- accept&#45;exists?&#45;&gt;accept&#45;language&#45;exists? -->
@@ -1209,7 +1209,7 @@
 <!-- is&#45;options? -->
 <g id="isoptions" class="node">
 <title>is&#45;options?</title>
-<polygon fill="none" stroke="#000000" points="1832.8999,-3068 1749.4926,-3068 1749.4926,-3032 1832.8999,-3032 1832.8999,-3068"/>
+<polygon fill="#d3d3d3" stroke="#000000" points="1832.8999,-3068 1749.4926,-3068 1749.4926,-3032 1832.8999,-3032 1832.8999,-3068"/>
 <text text-anchor="middle" x="1791.1963" y="-3045.8" font-family="sans-serif" font-size="14.00" fill="#000000">is&#45;options?</text>
 </g>
 <!-- is&#45;options?&#45;&gt;handle&#45;options -->
